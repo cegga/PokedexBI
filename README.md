@@ -1,5 +1,7 @@
 # PokedexBI
 
+<img src="https://i.imgur.com/4yRscOZ.png" alt="Pikachu using Power BI" width="500"/>
+
 # Introdução
 Nosso trabalho tenta replicar um dos bestiarios mais famosos da cultura pop
 # Objetivo
