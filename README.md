@@ -8,7 +8,7 @@ O objetivo do presente trabalho é mostrar apartir de dados todos os status de u
   * O que queremos avaliar?
       * Queremos avaliar qual é o pokomon ou o tipo que tem os melhores status de todo o mundo pokemon
   * Como queremos avaliar?
-      * 
+      * Nos procuramos avaliar os dados apartir das gerações dos pokemons, suas cidades de origem, sua raridade no mundo pokemon e sua usabilidade por jogadores em outras runs
   * Como vamos sumarizar as informações?
       *
   * Como vamos agregar as informações?
