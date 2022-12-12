@@ -11,7 +11,7 @@
 
 # Requisitos Funcionais
 <p> Este trabalho é focado para aqueles jogadores iniciantes ou avançados que querem achar a composição "perfeita" para sua jogatina de Pokémon, independentemente da geração. Os  dados coletados são baseados na Pokédex original da animação e dos jogos.</p>
-<p> A Pokédex será reproduzida para o auxílio dos jogadores, mostrando os tipos e os nomes dos Pokémon com maior ataque. Na outra pagina foi refeita a Pokédex, onde o usuário pode escolher um Pokémon e mostrara todas as estatísticas mais relevantes para as jogatinas. Por último, foi feita uma página em que o usuário pode escolher alguns tipos de Pokémon e comparar as estatísticas relevantes por tipo.</p>
+<p> A Pokédex será reproduzida para o auxílio dos jogadores, mostrando os tipos e os nomes dos Pokémon com maior ataque. Na outra pagina foi refeita a Pokédex, onde o usuário pode escolher um Pokémon e visualizar todas as estatísticas mais relevantes para as jogatinas. Por último, foi feita uma página em que o usuário pode escolher alguns tipos de Pokémon e comparar as estatísticas relevantes por tipo.</p>
 
 # Modelagem
 Foi utilizado o Star Schema para modelagem de dados.
