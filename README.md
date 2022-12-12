@@ -7,7 +7,7 @@
 <p> Ao longo da jogatina, o jogador vai tendo contato com todos os tipos de Pokémon e esses contatos são registrados em um dispositivo chamado Pokédex. A Pokédex cumpre um papel de enciclopédia eletrônica, contendo dados sobre a criatura que o treinador estabeleceu contato.</p>
 
 # Objetivo
-<p> O objetivo é mostrar a partir de dados todos os <i>status</i> de um Pokémon ou, até mesmo, fazer um comparativo de todos os tipos de criaturas para que o jogador decida a melhor equipe para sua jogatina com base em seu estilo de jogo.</p>
+<p> O objetivo é mostrar, a partir dos dados coletados e manipulados, todos os <i>status</i> de um Pokémon ou até mesmo fazer um comparativo de todos os tipos de criaturas e seus atributos, para que o jogador decida a melhor equipe para sua jogatina com base em seu estilo de jogo.</p>
 
 # Requisitos Funcionais
 <p> Este trabalho é focado para aqueles jogadores iniciantes ou avançados que querem achar a composição "perfeita" para sua jogatina de Pokémon, independentemente da geração. Os  dados coletados são baseados na Pokédex original da animação e dos jogos.</p>
