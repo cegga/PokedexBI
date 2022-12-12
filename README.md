@@ -1,6 +1,7 @@
 # Pokedex BI
 
 <img src="https://i.imgur.com/4yRscOZ.png" alt="Pikachu using Power BI" width="500"/>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTAvThHlLDwdyCEvy8NbNgVV_65sIdyeC1SX6DK-opsqRx-NyL8dWLIFoiiLrItNdBYhTEaABWo2Tht/pub?start=false&loop=false&delayms=60000">Link para apresentação</a>
 
 # Introdução
 <p> Pokémon é uma das franquias mais famosas da cultura pop. A marca foi idealizada inicialmente como um jogo eletrônico em que o jogador captura criaturas fictícias de diversas espécies e elementos naturais, podendo submetê-las a treinamentos e batalhas com demais criaturas.</p>
